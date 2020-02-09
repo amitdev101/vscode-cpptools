@@ -1,0 +1,8 @@
+1. copy the downloaded .vscode folder to the directory you are working in
+2. download codeblocks mingw setup on windows 
+3. Go inside codeblocks path "C:\Program Files (x86)\CodeBlocks\MinGW\bin" and copy gdb32 to desktop.
+4. Rename this file copied and name it as "gdb".
+5. Now paste to the same directory you copied from "C:\Program Files (x86)\CodeBlocks\MinGW\bin"
+6. Now add this folder to the path in windows "C:\Program Files (x86)\CodeBlocks\MinGW\bin"
+7. now check whether gdb and gcc are added to the path correctly by typing "gcc --version" and "gdb --version"
+8. Done. 
